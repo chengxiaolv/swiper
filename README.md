@@ -1,5 +1,7 @@
 # cheng
-
+  移动端的 swiper的有意思的demo
+  
+  
 > A Vue.js project
 
 ## Build Setup
